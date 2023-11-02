@@ -1,0 +1,12 @@
+6 CORE WEB VITALS
+- CLS(Cummulative Layout Shift)=>how much does a  page shifts while loading
+- LCP(Largest Contentful Paint)=>Time to load a big element in web,  good LCP score is 2.5 sec
+- FID(First Input Delay)=>Input processes in how much time, <100 milisec is good
+- LightHouse Report=>What can you improve in ur html website
+
+7 HTML FORMS
+Types of Elements in Forms
+- Form types=>1)Get 2)Post
+- For Input in Forms 1)Text 2)Password 3) Radio 4)CheckBox 5)TextArea 6)Select
+- Use label before Input 
+- Use <div> for seperating the elements
